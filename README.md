@@ -17,3 +17,13 @@ echart
 
 팀 프로젝트
 > 팀 프로젝트 때 진행하였을 때 사용한 깃허브 주소, 발표영상과 개발할 때 참고하였던 사이트로 클릭하면 이동 할 수 있는 화면이 보입니다. 
+
+![04](https://user-images.githubusercontent.com/90297003/204463719-f9e1fe00-ba6b-418b-beff-cb651a672e52.png)
+
+인적
+> 본인의 인적사항을 적어놓은 화면이 보입니다.
+
+![05](https://user-images.githubusercontent.com/90297003/204466422-9f11f263-8fb4-46bd-b6ed-0bde833722fb.png)
+
+화면의 공통 부분
+> 화면의 하단에 있는 참조링크 부분의 naver, google, daum 탭을 누르면 각 해당 사이트로 넘어갑니다.
