@@ -5,7 +5,7 @@
 
 ![01](https://user-images.githubusercontent.com/90297003/204463685-214c2f95-f1b4-4502-bae3-0886791910a7.png)
 
-echart
+<span style='background-color: #ffdce0'>echart</span>
 > echart탭에서는 공부한 시간을 echart로 나타낸 화면이 보입니다.
 
 ![02](https://user-images.githubusercontent.com/90297003/204463698-f2024767-a6da-4312-b2c0-ba2588a84c44.png)
