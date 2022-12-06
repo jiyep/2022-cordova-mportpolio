@@ -1,7 +1,7 @@
 # 2022-cordova-mportpolio
 
 **설명**
-> 자신의 포트폴리오를 jquery mobile로 나타내기
+> 자신의 포트폴리오를 jquery mobile를 사용하여 만든 어플리케이션
 
 ***
 
